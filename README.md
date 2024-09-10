@@ -25,6 +25,7 @@ To run the project locally, follow the instructions below to set up both the fro
 
 ### Frontend
 ```bash
+$ npm i
 $ npm run start
 ```
 
